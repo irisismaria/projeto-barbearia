@@ -88,4 +88,20 @@ nav a:hover {
 	color:#FFFFFF;
 	font-size: 13px;
 	margin: 20PX 0 0 ;
+} 
+ 
+ <p class="paragrafo">
+
+p {
+    color: blue;
 }
+
+p.paragrafo {
+    color: red;
+}
+
+.paragrafo {
+    color: purple;
+}
+
+
